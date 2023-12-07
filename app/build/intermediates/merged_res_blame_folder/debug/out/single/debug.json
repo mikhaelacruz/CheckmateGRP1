@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-merged_res-53:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-main-55:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-merged_res-53:\\font_blinkerblack.ttf.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-main-55:\\font\\blinkerblack.ttf"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-merged_res-53:\\font_blinkerextrabold.ttf.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-main-55:\\font\\blinkerextrabold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-merged_res-53:\\layout_activity_home_page.xml.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-main-55:\\layout\\activity_home_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-merged_res-53:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-main-55:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-merged_res-53:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-main-55:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-merged_res-53:\\font_blinkerheadline.ttf.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-main-55:\\font\\blinkerheadline.ttf"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-merged_res-53:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-main-55:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-merged_res-53:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-main-55:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-merged_res-53:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-main-55:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-merged_res-53:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-main-55:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-merged_res-53:\\drawable_baseline_calendar_today_24.xml.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-main-55:\\drawable\\baseline_calendar_today_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-merged_res-53:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-main-55:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-merged_res-53:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-main-55:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-merged_res-53:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-main-55:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-merged_res-53:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-main-55:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-merged_res-53:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-main-55:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-merged_res-53:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-main-55:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-merged_res-53:\\font_blinkerregular.ttf.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-main-55:\\font\\blinkerregular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-merged_res-53:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-main-55:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-merged_res-53:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-main-55:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-merged_res-53:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-main-55:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-merged_res-53:\\drawable_baseline_add_circle_24.xml.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-main-55:\\drawable\\baseline_add_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-merged_res-53:\\layout_each_task.xml.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-main-55:\\layout\\each_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-merged_res-53:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-main-55:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-merged_res-53:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-main-55:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-merged_res-53:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-main-55:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-merged_res-53:\\layout_activity_forgot_password.xml.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-main-55:\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "com.example.checkmateapp_grp1.app-merged_res-53:/layout_activity_forgot_password.xml.flat",
+        "source": "com.example.checkmateapp_grp1.app-main-55:/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-merged_res-53:\\font_blinkerbold.ttf.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-main-55:\\font\\blinkerbold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-merged_res-53:\\font_blinkerlight.ttf.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-main-55:\\font\\blinkerlight.ttf"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-merged_res-53:\\drawable_checkmateiconapp.png.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-main-55:\\drawable\\checkmateiconapp.png"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-merged_res-53:\\drawable_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-main-55:\\drawable\\baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-merged_res-53:\\font_blinkerthin.ttf.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.0\\com.example.checkmateapp_grp1.app-main-55:\\font\\blinkerthin.ttf"
+    }
+]

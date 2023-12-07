@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SignUp">
+
+    <LinearLayout
+        android:id="@+id/linearLayout5"
+        android:layout_width="356dp"
+        android:layout_height="68dp"
+        android:layout_marginTop="48dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toTopOf="@+id/linearLayout6"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.527"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.25">
+
+        <TextView
+            android:id="@+id/txtTitle3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/blinkerbold"
+            android:text="CHECKMATE"
+            android:textAlignment="viewEnd"
+            android:textColor="@color/darkgray"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout6"
+        android:layout_width="351dp"
+        android:layout_height="151dp"
+        android:layout_marginTop="164dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toTopOf="@+id/linearLayout7"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.483"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0">
+
+        <TextView
+            android:id="@+id/txtHi2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/blinkerbold"
+            android:text="Hi!"
+            android:textColor="@color/darkgray"
+            android:textSize="40sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txtWelcome2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/blinkerbold"
+            android:text="Welcome"
+            android:textColor="@color/darkgray"
+            android:textSize="40sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txtDes7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/blinkerlight"
+            android:text="Let's create an account"
+            android:textColor="@color/darkgray"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout7"
+        android:layout_width="352dp"
+        android:layout_height="264dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.706">
+
+        <EditText
+            android:id="@+id/edtEmailSignUp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Email"
+            android:fontFamily="@font/blinkerregular"
+            android:inputType="textEmailAddress"
+            android:textColor="@color/darkgray" />
+
+        <EditText
+            android:id="@+id/edtFullName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Full Name"
+            android:inputType="text"
+            android:fontFamily="@font/blinkerregular"
+            android:textColor="@color/darkgray" />
+
+        <EditText
+            android:id="@+id/edtPassSignUp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Password"
+            android:fontFamily="@font/blinkerregular"
+            android:inputType="textPassword"
+            android:textColor="@color/darkgray" />
+
+        <EditText
+            android:id="@+id/edtConfirmPassSignUp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Confirm Password"
+            android:inputType="textPassword"
+            android:fontFamily="@font/blinkerregular"
+            android:textColor="@color/darkgray" />
+
+        <TextView
+            android:id="@+id/txtDes8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/blinkerlight"
+            android:text="Must contain a number and least of 6 characters"
+            android:textColor="@color/darkgray" />
+
+        <Button
+            android:id="@+id/btnSignUp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/darkgray"
+            android:text="Sign Up"
+            android:fontFamily="@font/blinkerextrabold"
+            android:textColor="@color/white" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="363dp"
+        android:layout_height="41dp"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout7"
+        app:layout_constraintVertical_bias="0.833">
+
+        <TextView
+            android:id="@+id/txtDes9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:fontFamily="@font/blinkerlight"
+            android:text="Have an account?"
+            android:textAlignment="viewEnd"
+            android:textColor="@color/darkgray" />
+
+        <TextView
+            android:id="@+id/txtLogIn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:fontFamily="@font/blinkerbold"
+            android:text="@string/login"
+            android:textAlignment="viewStart"
+            android:textColor="@color/darkgray"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

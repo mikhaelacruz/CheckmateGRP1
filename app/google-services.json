@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "61252054977",
+    "firebase_url": "https://grp1-checkmate-default-rtdb.firebaseio.com",
+    "project_id": "grp1-checkmate",
+    "storage_bucket": "grp1-checkmate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61252054977:android:ff26add802f9a660234940",
+        "android_client_info": {
+          "package_name": "com.example.checkmateapp_grp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvRcBFd1mOJto1ynknG5zW0xQZ7sK_k4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://grp1-checkmate-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">61252054977</string>
+    <string name="google_api_key" translatable="false">AIzaSyAvRcBFd1mOJto1ynknG5zW0xQZ7sK_k4k</string>
+    <string name="google_app_id" translatable="false">1:61252054977:android:ff26add802f9a660234940</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAvRcBFd1mOJto1ynknG5zW0xQZ7sK_k4k</string>
+    <string name="google_storage_bucket" translatable="false">grp1-checkmate.appspot.com</string>
+    <string name="project_id" translatable="false">grp1-checkmate</string>
+</resources>

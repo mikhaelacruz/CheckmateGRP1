@@ -1,0 +1,6 @@
+com.example.checkmateapp_grp1.test.app-annotation-experimental-1.3.0-0 C:\Users\mikha\.gradle\caches\transforms-3\64f5a2649666a70136a276639bddc97a\transformed\annotation-experimental-1.3.0\res
+com.example.checkmateapp_grp1.test.app-core-1.5.0-1 C:\Users\mikha\.gradle\caches\transforms-3\8e5026d237625673c9bcab5b92f9970d\transformed\core-1.5.0\res
+com.example.checkmateapp_grp1.test.app-androidTest-2 C:\Users\mikha\Desktop\Checkmate\CheckmateApp_Grp1\app\build\generated\res\resValues\androidTest\debug
+com.example.checkmateapp_grp1.test.app-mergeDebugAndroidTestResources-3 C:\Users\mikha\Desktop\Checkmate\CheckmateApp_Grp1\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.checkmateapp_grp1.test.app-mergeDebugAndroidTestResources-4 C:\Users\mikha\Desktop\Checkmate\CheckmateApp_Grp1\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.checkmateapp_grp1.test.app-merged_res-5 C:\Users\mikha\Desktop\Checkmate\CheckmateApp_Grp1\app\build\intermediates\merged_res\debugAndroidTest

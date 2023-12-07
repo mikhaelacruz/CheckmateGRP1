@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CheckmateApp_Grp1" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.CheckmateApp_Grp1" parent="Base.Theme.CheckmateApp_Grp1" />
+
+    <style name="Theme.AppCompat.SplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/nude</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/checkmateiconapp</item>
+        <item name="postSplashScreenTheme">@style/Base.Theme.CheckmateApp_Grp1</item>
+    </style>
+</resources>
