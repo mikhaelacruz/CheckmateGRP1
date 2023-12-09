@@ -3,6 +3,7 @@ package com.example.checkmateapp_grp1
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.util.Log
 import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
@@ -27,26 +28,32 @@ class ForgotPassword : AppCompatActivity() {
         auth = FirebaseAuth.getInstance()
 
         btnForgotPass.setOnClickListener {
-            val sPassword = edtPassword.text.toString()
-            auth.sendPasswordResetEmail(sPassword)
+            val sEmail = edtPassword.text.toString()
+            if (sEmail.isEmpty()) {
+                Toast.makeText(this, "Please enter your email", Toast.LENGTH_SHORT).show()
+                return@setOnClickListener
+            }
+
+            auth.sendPasswordResetEmail(sEmail)
                 .addOnSuccessListener {
                     Toast.makeText(this, "Please Check your Email", Toast.LENGTH_SHORT).show()
-
                 }
-                .addOnFailureListener {
-                    Toast.makeText(this, it.toString(), Toast.LENGTH_SHORT).show()
+                .addOnFailureListener { e ->
+                    // Log the exception for debugging
+                    Log.e("ForgotPassword", "Error sending password reset email", e)
+
+                    // Print the exception details to the console
+                    e.printStackTrace()
+
+                    // Show a toast with a generic error message
+                    Toast.makeText(this, "Error sending password reset email", Toast.LENGTH_SHORT)
+                        .show()
                 }
 
-            //var buttonForgot : Button = findViewById(R.id.btnForgotPass)
-
-            //buttonForgot.setOnClickListener {
-            //    val myIntent = Intent(this, SignUp::class.java)
-            //    startActivity(myIntent)
-            //}
-        }
-        logInClick.setOnClickListener {
-            val myIntent = Intent(this, MainActivity::class.java)
-            startActivity(myIntent)
+            logInClick.setOnClickListener {
+                val myIntent = Intent(this, MainActivity::class.java)
+                startActivity(myIntent)
+            }
         }
     }
 }
